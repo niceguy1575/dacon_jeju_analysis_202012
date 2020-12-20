@@ -1,5 +1,3 @@
-# dacon_jeju_analysisis
-
 # 제주도 재난지원금 소비 분석
 
 본 Repository는 Dacon에서 주최하는 **공간정보 탐색적 데이터 분석 경진대회** 에 제출을 위해 작성됐음을 밝힙니다.
